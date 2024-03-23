@@ -26762,6 +26762,8 @@ with pkgs;
 
   rakkess = callPackage ../development/tools/rakkess { };
 
+  redict = callPackage ../servers/nosql/redict { };
+
   redis = callPackage ../servers/nosql/redis { };
 
   redli = callPackage ../tools/networking/redli { };
