@@ -5845,12 +5845,6 @@
     githubId = 934284;
     name = "Rouven Czerwinski";
   };
-  emattiza = {
-    email = "nix@mattiza.dev";
-    github = "emattiza";
-    githubId = 11719476;
-    name = "Evan Mattiza";
-  };
   embr = {
     email = "hi@liclac.eu";
     github = "liclac";
